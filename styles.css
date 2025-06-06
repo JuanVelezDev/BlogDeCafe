@@ -89,6 +89,30 @@ a {
     padding: 40px 0;
 }
 
+main h3 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.entrada {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--gris);
+    padding-bottom: 2rem;
+}
+
+.entrada:last-of-type {
+    border: none;
+}
+
+.entrada img {
+    width: 100%;
+}
+
+.contenido {
+    padding: 1.5rem 0;
+}
+
 
 
 

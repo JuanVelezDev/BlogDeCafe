@@ -76,6 +76,20 @@ a {
     margin-bottom: 1rem;
 }
 
+.texto-header p {
+    font-size: 1.6rem;
+}
+
+
+/* Contenido Principal */
+.principal {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 4rem;
+    padding: 40px 0;
+}
+
+
 
 
 

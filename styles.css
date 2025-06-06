@@ -43,4 +43,18 @@ a {
     align-items: center;
 }
 
+.logo {
+    color: var(--blanco);
+}
+
+.logo h1 {
+    font-size: 2.2rem;
+}
+
+.logo-bold {
+    font-weight: 700;
+}
+
+
+
 

@@ -55,6 +55,16 @@ a {
     font-weight: 700;
 }
 
+.nav a {
+    color: var(--blanco);
+    font-size: 1.2rem;
+    margin-right: 20px;
+}
+
+.nav a:hover {
+    color: var(--gris);
+}
+
 
 
 

@@ -216,6 +216,29 @@ main h3 {
 }
 
 
+/* Sobre Nosotros */
+.sobre-nosotros {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+}
+
+.sobre-nosotros__imagen img {
+    width: 100%;
+}
+
+.sobre-nosotros__texto p {
+    margin-bottom: 1rem;
+    line-height: 2;
+}
+
+@media (max-width: 768px) {
+    .sobre-nosotros {
+        grid-template-columns: 1fr;
+    }
+}
+
+
 
 
 
